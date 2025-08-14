@@ -3,7 +3,7 @@ import Udyam from "../assets/udyam.mp4";
 
 function Footer() {
   return (
-    <div className="bg-[#1c1c5a] px-[10vw] text-white flex items-center justify-between">
+    <div className="bg-[#1c1c5a] px-[10vw] text-white flex items-center justify-between mt-5">
       <div className="py-10 flex flex-col ">
         <div className="text-3xl">Udyam Registration</div>
         <div className="flex flex-col gap-5 py-4">
